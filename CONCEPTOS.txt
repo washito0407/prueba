@@ -1,0 +1,7 @@
+CONCEPTOS:
+CLASES: atributos dados a tipos de datos que conjugan para dar un significado
+OBJETO: aquel con el que se debe interactuar y dar atributos a su orden
+METODO: aquel del cual se mantiene una acción ante el objeto
+ATRIBUTO: dispuesto a dar tamaño o fomra al tipo de objeto
+SETTERS: asignamos un valor a un atributo de manera explicita 
+GETTERS: permite obtener el valor de una propiedad de la clase y ese mismo valor utilizarlo en diferentes metodos.
